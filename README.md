@@ -4,3 +4,6 @@ https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
 #EXTINF:-2,CBS SPORTS GOLAZO! 
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-3,BEIN SPORTS XTRA
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
