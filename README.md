@@ -10,3 +10,6 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
 #EXTINF:-4,BEIN SPORTS XTRA
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
+
+#EXTINF:-5,N.SPORTS BR
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
