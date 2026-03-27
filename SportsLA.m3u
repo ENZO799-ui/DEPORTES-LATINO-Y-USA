@@ -2,29 +2,32 @@
 #EXTINF:-1,FOX DEPORTES
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
-#EXTINF:-2,CBS SPORTS GOLAZO! 
+#EXTINF:-2,FOX ONE EN TUBI
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+
+#EXTINF:-3,CBS SPORTS GOLAZO! 
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
-#EXTINF:-3,CBS SPORTS HQ
+#EXTINF:-4,CBS SPORTS HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
-#EXTINF:-4,BEIN SPORTS XTRA
+#EXTINF:-5,BEIN SPORTS XTRA
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
 
-#EXTINF:-5,N.SPORTS BR
+#EXTINF:-6,N.SPORTS BR
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 
-#EXTINF:-6,TENNIS CHANNEL
+#EXTINF:-7,TENNIS CHANNEL
 https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
 
-#EXTINF:-7,FIFA+
+#EXTINF:-8,FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-8,TIGO SPORTS PY
+#EXTINF:-9,TIGO SPORTS PY
 https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081/8160/index.m3u8
 
-#EXTINF:-9,CLARO SPORTS
+#EXTINF:-10,CLARO SPORTS
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
-#EXTINF:-10,REALMADRID.TV
+#EXTINF:-11,REALMADRID.TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
