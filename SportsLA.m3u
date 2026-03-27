@@ -29,5 +29,8 @@ https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081
 #EXTINF:-10,CLARO SPORTS
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
-#EXTINF:-11,REALMADRID.TV
+#EXTINF:-11,TYC SPORTS
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
+
+#EXTINF:-12,REALMADRID.TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
