@@ -32,6 +32,24 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playl
 #EXTINF:-1,ESPN 5 SUR
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
 
+#EXTINF:-1,ESPN POR YOUTUBE
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1,ESPN 2 POR YOUTUBE
+https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1,ESPN 3 POR YOUTUBE
+
+
+#EXTINF:-1,ESPN 4 POR YOUTUBE
+
+
+#EXTINF:-1,TNT SPORTS POR TWITCH
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+
+#EXTINF:-1,DIRECTV SPORTS
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
 #EXTINF:-1,CBS SPORTS GOLAZO! 
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
