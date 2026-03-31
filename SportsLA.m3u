@@ -65,6 +65,9 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
 #EXTINF:-1,N.SPORTS BR
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 
+#EXTINF:-1,CAZE.TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-8,TENNIS CHANNEL
 https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
 
@@ -79,6 +82,9 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
 #EXTINF:-1,TYC SPORTS
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
+
+#EXTINF:-1,LALIGA SMARTBANK
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 
 #EXTINF:-1,REALMADRID.TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
