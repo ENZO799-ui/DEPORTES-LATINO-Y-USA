@@ -59,6 +59,9 @@ https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
 #EXTINF:-1,ESPN 4 POR YOUTUBE
 https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
 
+#EXTINF:-1,ESPN PREMIUM
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+
 #EXTINF:-1,TNT SPORTS POR TWITCH
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
 
