@@ -5,6 +5,9 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1,FOX DEPORTES
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
+#EXTINF:-1,PLUTO.TV FOOTBALL
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/63c6e37e636b7e0007ccb635/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI4NWVkZDI0LWUzZGMtNGMxNi04YjUwLTE5ZGI0ODY3M2UwOSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NDk3ODA0OCwiaWF0IjoxNzc0ODkxNjQ4LCJqdGkiOiIyYmI0NDNhNy0wNDAwLTQ2NTYtYjI3Mi1hYTUwOGMyOWI4ZmIifQ.pEeDTxr3ZjkZAzXYM7B7rzDcEhhQiJSpebdurmvYMUk
+
 #EXTINF:-1,FOX SPORTS SUR
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
