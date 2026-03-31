@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ESPN DEPORTES
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
 #EXTINF:-1,FOX DEPORTES
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
