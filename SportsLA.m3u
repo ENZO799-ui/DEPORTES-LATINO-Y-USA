@@ -23,8 +23,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playl
 #EXTINF:-1,FOX SPORTS 3 SUR
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 
-#EXTINF:-1,FOX ONE EN TUBI
+#EXTINF:-1,FOX TUBI
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+
+#EXTINF:-1,FOX XTRA TUBI
+http://74.208.30.121/fox_mexico/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,TUDN
 https://streaming.alwaysdata.net/tudn.php
