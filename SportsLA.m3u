@@ -51,7 +51,7 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.play
 https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
 
 #EXTINF:-1,ESPN 2 POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
+http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
 
 #EXTINF:-1,ESPN 3 POR YOUTUBE
 https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
